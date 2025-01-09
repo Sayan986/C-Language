@@ -1,3 +1,15 @@
+/*
+    A
+   AB
+  ABC
+ ABCD
+ABCDE
+ ABCD
+  ABC
+   AB
+    A
+*/
+
 #include<stdio.h>
 int main()
 {
